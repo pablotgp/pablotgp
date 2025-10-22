@@ -53,8 +53,8 @@ Mi objetivo es combinar **análisis de datos, ingeniería y creatividad** para c
 
 ## 📫 Contacto
 
-📧 **Email:** pablotgp@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pablotgp](https://linkedin.com/in/pablotgp)  
+📧 **Email:** pablotgp2002@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/pablotgp-ai](https://linkedin.com/in/pablotgp-ai)  
 🐙 **GitHub:** [github.com/pablotgp](https://github.com/pablotgp)  
 
 ---
