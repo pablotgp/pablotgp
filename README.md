@@ -34,13 +34,12 @@ Mi objetivo es combinar **análisis de datos, ingeniería y creatividad** para c
 - FastAPI | Gradio | n8n | Power BI  
 
 ---
-
 ## 🧩 Proyectos Destacados
 
-🔹 [**Alicia-RAG-Chatbot**](https://github.com/pablotgp/Alicia-RAG-Chatbot) — Chatbot educativo con arquitectura RAG y LLMs.  
-🔹 [**RAG-Framework**](https://github.com/pablotgp/RAG-) — Implementación modular de sistemas de Recuperación Aumentada por Generación.
-🔹 [**Predicción de Default de Crédito**](https://github.com/pablotgp/prediccion-default-credito) — Modelado y análisis predictivo del riesgo crediticio con ML. 
-🔹 [**Titanic-Socioeconomic-Survival-Analysis**](https://github.com/pablotgp/Titanic-Socioeconomic-Survival-Analysis) — Análisis socioeconómico de la supervivencia en el Titanic con ML.  
+*   🔹 [**Alicia-RAG-Chatbot**](https://github.com/pablotgp/Alicia-RAG-Chatbot) — Chatbot educativo con arquitectura RAG y LLMs.
+*   🔹 [**RAG-Framework**](https://github.com/pablotgp/RAG-) — Implementación modular de sistemas de Recuperación Aumentada por Generación.
+*   🔹 [**Predicción de Default de Crédito**](https://github.com/pablotgp/prediccion-default-credito) — Modelado y análisis predictivo del riesgo crediticio con ML.
+*   🔹 [**Titanic-Socioeconomic-Survival-Analysis**](https://github.com/pablotgp/Titanic-Socioeconomic-Survival-Analysis) — Análisis socioeconómico de la supervivencia en el Titanic con ML.
 
 ---
 
