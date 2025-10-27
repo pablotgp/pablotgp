@@ -1,62 +1,62 @@
-# 👋 ¡Hola! Soy Pablo García  
+# 👋 Hi! I'm Pablo García
 
-🎯 **Data Scientist | AI Engineer | Apasionado por la IA Generativa**
+🎯 **Data Scientist | AI Engineer | Passionate about Generative AI**
 
-Soy un profesional entusiasta de la **Inteligencia Artificial aplicada a la resolución de problemas reales**, con formación en **Matemáticas e IA** y experiencia práctica en el desarrollo de **modelos de Machine Learning, sistemas RAG, LLMs y agentes inteligentes**.  
-Mi objetivo es combinar **análisis de datos, ingeniería y creatividad** para construir soluciones que aporten valor y escalabilidad.
-
----
-
-## 🧠 Sobre mí
-
-- 🎓 Graduado en Matemáticas y especializado en **Inteligencia Artificial**.  
-- 🤖 Experiencia en **IA Generativa**, **Machine Learning**, **MLOps** y **automatización de pipelines**.  
-- 💡 He desarrollado proyectos personales centrados en **RAG Systems**, **chatbots educativos**, **predicción de riesgo crediticio**, y **análisis de datos financieros**.  
-- ☁️ Familiarizado con entornos **Cloud (Azure, AWS, GCP)**, **Docker**, **LangChain**, **Hugging Face**, y **FastAPI**.  
-- 📈 En constante aprendizaje, siempre explorando nuevas formas de aplicar la IA de manera ética y eficiente.
+I am an enthusiastic AI professional dedicated to solving real-world problems, with a strong background in **Mathematics and AI** and hands-on experience developing **Machine Learning models, RAG systems, LLMs, and intelligent agents**.
+My goal is to combine **data analysis, engineering, and creativity** to build valuable and scalable solutions.
 
 ---
 
-## 🧰 Stack Tecnológico
+## 🧠 About Me
 
-**Lenguajes y Frameworks**
+- 🎓 Mathematics graduate specializing in **Artificial Intelligence**.
+- 🤖 Experienced in **Generative AI**, **Machine Learning**, **MLOps**, and **pipeline automation**.
+- 💡 Developed personal projects focused on **RAG Systems**, **educational chatbots**, **credit default prediction**, and **financial data analysis**.
+- ☁️ Familiar with **Cloud environments (Azure, AWS, GCP)**, **Docker**, **LangChain**, **Hugging Face**, and **FastAPI**.
+- 📈 Always learning and exploring new ways to apply AI ethically and efficiently.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
 - Python | SQL | R | JavaScript (Node.js)
 - LangChain | PyTorch | TensorFlow | Scikit-learn | Pandas | NumPy | SHAP
 
-**Bases de Datos**
-- Pinecone | ChromaDB | FAISS  
-- PostgreSQL | MySQL  
+**Databases**
+- Pinecone | ChromaDB | FAISS
+- PostgreSQL | MySQL
 
 **Cloud & DevOps**
-- Azure ML | AWS | Docker | Git | CI/CD  
+- Azure ML | AWS | Docker | Git | CI/CD
 
-**Otros**
-- FastAPI | Gradio | n8n | Power BI  
-
----
-## 🧩 Proyectos Destacados
-
-*   🔹 [**Alicia-RAG-Chatbot**](https://github.com/pablotgp/Alicia-RAG-Chatbot) — Chatbot educativo con arquitectura RAG y LLMs.
-*   🔹 [**RAG-Framework**](https://github.com/pablotgp/RAG-) — Implementación modular de sistemas de Recuperación Aumentada por Generación.
-*   🔹 [**Predicción de Default de Crédito**](https://github.com/pablotgp/prediccion-default-credito) — Modelado y análisis predictivo del riesgo crediticio con ML.
-*   🔹 [**Titanic-Socioeconomic-Survival-Analysis**](https://github.com/pablotgp/Titanic-Socioeconomic-Survival-Analysis) — Análisis socioeconómico de la supervivencia en el Titanic con ML.
+**Other**
+- FastAPI | Gradio | n8n | Power BI
 
 ---
+## 🧩 Featured Projects
 
-## 🌱 Actualmente
-
-- 🚀 Explorando el desarrollo de **agentes inteligentes y LLMOps**.  
-- 🧩 Mejorando mis conocimientos en **infraestructura IA y optimización de pipelines en la nube**.  
-- 🤝 Abierto a colaborar en proyectos de **IA aplicada**, **Data Science**, y **educación mediante tecnología**.
+*   🔹 [**Alicia-RAG-Chatbot**](https://github.com/pablotgp/Alicia-RAG-Chatbot) — Educational chatbot with a RAG architecture and LLMs.
+*   🔹 [**RAG-Framework**](https://github.com/pablotgp/RAG-) — Modular implementation of Retrieval-Augmented Generation systems.
+*   🔹 [**Credit Default Prediction**](https://github.com/pablotgp/prediccion-default-credito) — Predictive modeling and analysis of credit risk using ML.
+*   🔹 [**Titanic-Socioeconomic-Survival-Analysis**](https://github.com/pablotgp/Titanic-Socioeconomic-Survival-Analysis) — Socioeconomic survival analysis on the Titanic dataset with ML.
 
 ---
 
-## 📫 Contacto
+## 🌱 Currently
 
-📧 **Email:** pablotgp2002@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pablotgp-ai](https://www.linkedin.com/in/pablogp-ai)  
-🐙 **GitHub:** [github.com/pablotgp](https://github.com/pablotgp)  
+- 🚀 Exploring the development of **intelligent agents and LLMOps**.
+- 🧩 Deepening my knowledge of **AI infrastructure and cloud pipeline optimization**.
+- 🤝 Open to collaborating on projects in **applied AI**, **Data Science**, and **EdTech**.
 
 ---
 
-⭐ _“La inteligencia artificial no sustituirá a las personas, pero las personas que sepan usarla sustituirán a las que no.”_
+## 📫 Contact
+
+📧 **Email:** pablotgp2002@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/pablotgp-ai](https://www.linkedin.com/in/pablogp-ai)
+🐙 **GitHub:** [github.com/pablotgp](https://github.com/pablotgp)
+
+---
+
+> ⭐ “Artificial intelligence will not replace people, but people who know how to use it will replace those who don't.”
