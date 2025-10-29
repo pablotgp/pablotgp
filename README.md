@@ -40,6 +40,8 @@ My goal is to combine **data analysis, engineering, and creativity** to build va
 *   🔹 [**RAG-Framework**](https://github.com/pablotgp/RAG-) — Modular implementation of Retrieval-Augmented Generation systems.
 *   🔹 [**Credit Default Prediction**](https://github.com/pablotgp/prediccion-default-credito) — Predictive modeling and analysis of credit risk using ML.
 *   🔹 [**Titanic-Socioeconomic-Survival-Analysis**](https://github.com/pablotgp/Titanic-Socioeconomic-Survival-Analysis) — Socioeconomic survival analysis on the Titanic dataset with ML.
+*    🔹 [**analisis-clustering-paises**](https://github.com/pablotgp/analisis-clustering-paises) Performed cluster analysis using the K-means algorithm to segment countries into homogeneous groups based on key variables.
+
 
 ---
 
